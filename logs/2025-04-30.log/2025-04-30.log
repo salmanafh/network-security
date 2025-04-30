@@ -1,0 +1,96 @@
+2025-04-30 11:40:42,413 - root - INFO - Initate Data Ingestion
+2025-04-30 11:42:56,525 - root - INFO - Initate Data Ingestion
+2025-04-30 12:08:44,293 - root - INFO - Initate Data Ingestion
+2025-04-30 12:09:37,498 - root - INFO - Initate Data Ingestion
+2025-04-30 12:13:55,750 - root - INFO - Initate Data Ingestion
+2025-04-30 12:14:51,335 - root - INFO - Initate Data Ingestion
+2025-04-30 12:14:55,452 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:14:55,452 - root - INFO - Exporting train and test file path
+2025-04-30 12:15:09,756 - root - INFO - Initate Data Ingestion
+2025-04-30 12:15:15,113 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:15:15,113 - root - INFO - Exporting train and test file path
+2025-04-30 12:16:03,871 - root - INFO - Initate Data Ingestion
+2025-04-30 12:16:08,798 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:16:08,798 - root - INFO - Exporting train and test file path
+2025-04-30 12:16:55,809 - root - INFO - Initate Data Ingestion
+2025-04-30 12:17:04,094 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:17:04,095 - root - INFO - Exporting train and test file path
+2025-04-30 12:18:14,236 - root - INFO - Initate Data Ingestion
+2025-04-30 12:18:22,089 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:18:22,090 - root - INFO - Exporting train and test file path
+2025-04-30 12:19:07,924 - root - INFO - Initate Data Ingestion
+2025-04-30 12:35:54,063 - root - INFO - Initate Data Ingestion
+2025-04-30 12:36:02,000 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:36:02,001 - root - INFO - Exporting train and test file path
+2025-04-30 12:38:02,893 - root - INFO - Initate Data Ingestion
+2025-04-30 12:38:32,583 - root - INFO - Initate Data Ingestion
+2025-04-30 12:38:37,802 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:38:37,802 - root - INFO - Exporting train and test file path
+2025-04-30 12:40:34,778 - root - INFO - Initate Data Ingestion
+2025-04-30 12:40:40,786 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:40:40,787 - root - INFO - Exporting train and test file path
+2025-04-30 12:42:22,399 - root - INFO - Initate Data Ingestion
+2025-04-30 12:43:21,806 - root - INFO - Initate Data Ingestion
+2025-04-30 12:43:27,889 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:43:27,890 - root - INFO - Exporting train and test file path
+2025-04-30 12:44:20,891 - root - INFO - Initate Data Ingestion
+2025-04-30 12:44:27,635 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:44:27,635 - root - INFO - Exporting train and test file path
+2025-04-30 12:45:09,060 - root - INFO - Initate Data Ingestion
+2025-04-30 12:45:18,859 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:45:18,859 - root - INFO - Exporting train and test file path
+2025-04-30 12:45:56,500 - root - INFO - Initate Data Ingestion
+2025-04-30 12:47:46,843 - root - INFO - Initate Data Ingestion
+2025-04-30 12:47:54,024 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:51:26,220 - root - INFO - Initate Data Ingestion
+2025-04-30 12:51:33,502 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:51:49,886 - root - INFO - Initate Data Ingestion
+2025-04-30 12:51:58,101 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:51:58,102 - root - INFO - Exporting train and test file path
+2025-04-30 12:52:27,912 - root - INFO - Initate Data Ingestion
+2025-04-30 12:52:35,325 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:52:35,325 - root - INFO - Exporting train and test file path
+2025-04-30 12:53:17,334 - root - INFO - Initate Data Ingestion
+2025-04-30 12:53:24,448 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:53:24,448 - root - INFO - Exporting train and test file path
+2025-04-30 12:53:57,392 - root - INFO - Initate Data Ingestion
+2025-04-30 12:54:03,825 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:54:03,825 - root - INFO - Exporting train and test file path
+2025-04-30 12:55:03,428 - root - INFO - Initate Data Ingestion
+2025-04-30 12:55:09,229 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:55:09,230 - root - INFO - Exporting train and test file path
+2025-04-30 12:55:23,866 - root - INFO - Initate Data Ingestion
+2025-04-30 12:55:34,153 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:55:34,153 - root - INFO - Exporting train and test file path
+2025-04-30 12:57:21,370 - root - INFO - Initate Data Ingestion
+2025-04-30 12:57:28,032 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 12:57:28,033 - root - INFO - Exporting train and test file path
+2025-04-30 13:04:18,609 - root - INFO - Initate Data Ingestion
+2025-04-30 13:04:23,354 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 13:04:23,354 - root - INFO - Exporting train and test file path
+2025-04-30 13:06:14,437 - root - INFO - Initate Data Ingestion
+2025-04-30 13:06:19,572 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 13:06:19,573 - root - INFO - Exporting train and test file path
+2025-04-30 13:07:22,790 - root - INFO - Initate Data Ingestion
+2025-04-30 13:07:28,919 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 13:07:28,920 - root - INFO - Exporting train and test file path
+2025-04-30 13:07:28,980 - root - INFO - Exported train and test file path
+2025-04-30 13:08:43,379 - root - INFO - Initate Data Ingestion
+2025-04-30 13:08:48,451 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 13:08:48,452 - root - INFO - Exporting train and test file path
+2025-04-30 13:08:48,505 - root - INFO - Exported train and test file path
+2025-04-30 13:09:14,046 - root - INFO - Initate Data Ingestion
+2025-04-30 13:09:22,637 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 13:09:22,637 - root - INFO - Exporting train and test file path
+2025-04-30 13:10:24,065 - root - INFO - Initate Data Ingestion
+2025-04-30 13:10:37,652 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 13:10:37,652 - root - INFO - Exporting train and test file path
+2025-04-30 13:10:37,686 - root - INFO - Exported train and test file path
+2025-04-30 13:11:33,530 - root - INFO - Initate Data Ingestion
+2025-04-30 13:11:38,864 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 13:11:38,865 - root - INFO - Exporting train and test file path
+2025-04-30 13:11:38,899 - root - INFO - Exported train and test file path
+2025-04-30 13:13:02,612 - root - INFO - Initate Data Ingestion
+2025-04-30 13:13:07,602 - root - INFO - Performed train and test split on the Dataframe
+2025-04-30 13:13:07,602 - root - INFO - Exporting train and test file path
+2025-04-30 13:13:07,637 - root - INFO - Exported train and test file path
